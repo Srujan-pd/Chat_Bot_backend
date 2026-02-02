@@ -1,0 +1,47 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Python packaging
+build/
+dist/
+*.egg-info/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+
+# Docker
+*.tar
+
+# Test / coverage
+.coverage
+htmlcov/
+
+# SQLite / local DB (if you create one)
+*.db
+
