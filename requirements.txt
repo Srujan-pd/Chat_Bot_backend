@@ -1,5 +1,6 @@
 fastapi==0.110.0
 uvicorn==0.29.0
+<<<<<<< HEAD
 gunicorn==21.2.0
 bcrypt==3.2.0
 sqlalchemy==2.0.29
@@ -12,3 +13,11 @@ google-cloud-texttospeech==2.16.3
 psycopg2-binary
 passlib[argon2]
 argon2-cffi
+=======
+python-dotenv==1.0.0
+google-genai==0.3.0
+sqlalchemy==2.0.29
+python-multipart==0.0.9
+google-cloud-texttospeech==2.16.3
+psycopg2-binary
+>>>>>>> b72a9f6 (backend)
